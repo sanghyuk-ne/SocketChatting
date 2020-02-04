@@ -1,1 +1,2 @@
 # SocketChatting
+#A program that is programmed with JDK 11 to chat with users who are connected to a fixed IP network. I divided the program with 5 classes-ClientFrame, MultiChatServer, MultiChatClient, FileSender, and Reciever. Each of them used the "extends" character of JAVA. The main concepts of this program are using thread and socket to make users connected. You can notice the way I programmed as you take a look at the source code below.
